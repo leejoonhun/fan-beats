@@ -1,6 +1,6 @@
 # Feature-aligned N-BEATS
 
-Official PyTorch Implementation of [Feature-aligned N-BEATS with Sinkhorn divergence](https://arxiv.org/abs/2305.15196).
+Official PyTorch Implementation of [Feature-aligned N-BEATS with Sinkhorn divergence](https://openreview.net/forum?id=TS8HoIWAPQ).
 
 ## Data
 
@@ -70,11 +70,11 @@ The detailed descriptions about the arguments are as follows:
 ## Citation
 
 ```bib
-@article{lee2023fanbeats,
+@inproceedings{lee2024fanbeats,
   title={Feature-aligned N-BEATS with Sinkhorn divergence},
   author={Lee, Joonhun and Jeon, Myeongho and Kang, Myungjoo and Park, Kyunghyun},
-  journal={arXiv preprint arXiv:2305.15196},
-  year={2023}
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024}
 }
 ```
 

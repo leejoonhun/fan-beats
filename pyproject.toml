@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "fan-beats"
-version = "0.1.0"
-description = ""
-authors = ["Lee Joonhun <jhlee63@outlook.com>"]
+version = "1"
+description = "Feature-aligned N-BEATS with Sinkhorn divergence (ICLR 2024)"
+authors = ["Joonhun Lee <iam@leejoonhun.xyz>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
